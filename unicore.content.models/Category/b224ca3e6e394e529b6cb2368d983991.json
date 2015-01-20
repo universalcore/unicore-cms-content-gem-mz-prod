@@ -1,14 +1,14 @@
 {
   "subtitle": "", 
   "uuid": "b224ca3e6e394e529b6cb2368d983991", 
-  "language": "por_AO", 
+  "language": "por_PT", 
   "title": "Dicas para Vida", 
   "image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "life-tips", 
