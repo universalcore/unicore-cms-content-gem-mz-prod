@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "por_PT", 
+  "title": "Spam, vigarices e v\u00edrus! O que s\u00e3o?", 
+  "primary_category": "b224ca3e6e394e529b6cb2368d983991", 
+  "created_at": "2016-06-05T21:32:54.883710+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-06-05T21:32:54.883938+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Ol\u00e1 Ms. Tech,\r\n\r\nSer\u00e1 que me pode explicar o que \u00e9 um v\u00edrus inform\u00e1tico? Um v\u00edrus \u00e9 o mesmo que spam? N\u00e3o sei bem o que querem dizer estas duas coisas, s\u00f3 sei s\u00e3o que uma e outra s\u00e3o m\u00e1s!\r\nAtenciosamente,\r\nRapariga da CidadeX\r\n\r\nOl\u00e1 Rapariga da CidadeX,\r\n\r\nUm v\u00edrus inform\u00e1tico pode invadir o teu telem\u00f3vel ou computador da mesma forma que uma doen\u00e7a ataca o teu corpo. Normalmente, um v\u00edrus invade o teu telem\u00f3vel ou computador sem que te apercebas. Pode obrigar o teu aparelho a fazer coisas contra a tua vontade, tal como enviar mensagens de e-mail em teu nome! Os v\u00edrus podem inclusivamente desligar o teu aparelho, provocando a perda de tudo o que possas ter guardado, como imagens, m\u00fasica ou jogos. \r\n\r\nGeralmente, os v\u00edrus s\u00e3o passados de um computador para o outro, ou de um telem\u00f3vel para o outro, atrav\u00e9s de ficheiros ou liga\u00e7\u00f5es. Por isso, a melhor maneira de impedir que um v\u00edrus ataque o teu telem\u00f3vel ou computador \u00e9 evitar a partilha de ficheiros e a abertura de liga\u00e7\u00f5es de origem desconhecida.\r\n\r\nPara o teu computador, podes instalar um antiv\u00edrus ou software de prote\u00e7\u00e3o contra v\u00edrus. Acontece que, por vezes, os propriet\u00e1rios de cibercaf\u00e9s n\u00e3o t\u00eam este cuidado, o que significa que os computadores deles podem espalhar v\u00edrus. Normalmente, n\u00e3o h\u00e1 prote\u00e7\u00e3o contra v\u00edrus dispon\u00edvel para telem\u00f3veis.  Por isso, quando utilizares um telem\u00f3vel, evita partilhar ficheiros atrav\u00e9s de Bluetooth ou clicar em liga\u00e7\u00f5es aparentemente suspeitas.\r\n\r\nSe receberes algo de um amigo que te pare\u00e7a estranho, no Facebook ou por e-mail, pode ser sinal de que a conta dele foi infetada. Se desconfiares de uma liga\u00e7\u00e3o ou publica\u00e7\u00e3o, pergunta ao teu amigo se foi mesmo ele que a enviou antes de clicares nela. \r\n\r\nOs v\u00edrus tamb\u00e9m podem provocar o envio de \"spam\" para todos os teus amigos a partir das tuas contas de e-mail ou das redes sociais. Spam (ou correio n\u00e3o solicitado) refere-se a mensagens inapropriadas enviadas atrav\u00e9s da Internet para um vasto n\u00famero de pessoas. Estas mensagens podem conter vigarices, liga\u00e7\u00f5es para publicidade ou pornografia. Se o teu computador ou telem\u00f3vel estiver infetado com um v\u00edrus, este pode come\u00e7ar a enviar e-mails ou mensagens de spam, o que pode ser muito embara\u00e7oso.\r\n\r\nPor isso \u00e9 muito importante que confirmes a origem de uma liga\u00e7\u00e3o antes de clicares nela, para evitar a entrada de um v\u00edrus no teu telem\u00f3vel ou computador. Se o teu telem\u00f3vel ou computador come\u00e7ar a fazer coisas estranhas, pede ajuda numa loja de computadores ou telem\u00f3veis o mais r\u00e1pido poss\u00edvel!\r\n\r\nTem cuidado com aquilo em que clicas!\r\nBeijinhos, Ms. Tech\r\n", 
+  "source": "e6c4fb748a9f4013b7050d602c0df8fb", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "spam-scams-viruses-what-are-they", 
+  "uuid": "e65325671d394ef98199b29d1e09aab4"
+}
